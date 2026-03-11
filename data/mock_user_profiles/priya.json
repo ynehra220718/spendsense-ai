@@ -1,0 +1,108 @@
+{
+  "id": "priya",
+  "name": "Priya",
+  "age": 28,
+  "location": "Austin, TX",
+  "occupation": "Software Engineer (Mid-Level)",
+  "persona_type": "budget_guilt",
+
+  "income": {
+    "annual_gross": 95000,
+    "monthly_gross": 7917,
+    "monthly_net": 5900,
+    "note": "Effective tax rate ~25.5% including federal + TX (no state income tax)"
+  },
+
+  "monthly_income": 5900,
+
+  "monthly_expenses": {
+    "rent_1br": 1550,
+    "groceries": 400,
+    "dining_out": 280,
+    "transportation": 160,
+    "utilities_electric_gas_water": 130,
+    "internet": 65,
+    "subscriptions": 178,
+    "wellness_beauty_selfcare": 115,
+    "student_loan_payment": 350,
+    "credit_card_minimum": 140,
+    "miscellaneous_discretionary": 320,
+    "total": 3688
+  },
+
+  "monthly_expenses": 3688,
+  "monthly_surplus": 2212,
+
+  "savings": 28500,
+  "savings_breakdown": {
+    "high_yield_savings_account": 11200,
+    "401k_balance": 17300,
+    "note": "401K started at 24, 6% contribution with 3% employer match. HYSA is emergency fund (covers ~3 months expenses). Below Fidelity 1x salary benchmark of $95K by age 30 — a source of anxiety."
+  },
+
+  "total_debt": 36000,
+  "debt_breakdown": {
+    "student_loans": 31200,
+    "credit_card_balance": 4800,
+    "student_loan_note": "Private university CS degree. National avg for engineering-related tech bachelor's is $41,308. Priya's lower balance reflects partial family contribution.",
+    "credit_card_note": "Slightly below Millennial avg of $6,961 (Experian 2025). Carries balance most months at 21.5% APR — pays above minimum but doesn't fully clear.",
+    "auto_loan": 0,
+    "bnpl_outstanding": 0
+  },
+
+  "financial_goals": [
+    "Pay off credit card debt within 18 months",
+    "Build 6-month emergency fund ($22,000 target)",
+    "Reach 1x salary in retirement savings by 30",
+    "Save for home down payment by 32-33"
+  ],
+
+  "subscriptions_detail": [
+    "Netflix ($17.99)", "Spotify ($10.99)", "Gym membership ($45)", "Duolingo Plus ($6.99)", "iCloud 200GB ($2.99)", "Adobe Creative Cloud ($54.99)", "Amazon Prime ($14.99)", "Hinge Gold ($24.99)"
+  ],
+  "subscription_note": "Typical of Millennials who carry 6-11 active subscriptions (industry research, 2024). Two subscriptions are unused in the last 60 days.",
+
+  "behavioral_profile": {
+    "money_behavior": "budget_guilt",
+    "money_script": "I should be doing better financially given how much I earn — but somehow there's never enough left over.",
+    "spending_triggers": [
+      "Stress at work (buys something small as reward)",
+      "Seeing peers post purchases on Instagram/LinkedIn",
+      "Sales and 'limited time' urgency messaging",
+      "Feeling burned out — self-care purchases spike"
+    ],
+    "cognitive_biases_observed": [
+      "Lifestyle creep: expenses have grown proportionally with every raise",
+      "Mental accounting: treats credit card rewards as 'free money'",
+      "Present bias: delays paying off credit card to enjoy monthly surplus",
+      "Social proof: buys trending items she sees on social media"
+    ],
+    "shopping_patterns": [
+      "Primarily shops on Amazon and Instagram Shop",
+      "74% of Millennials impulse buy regularly (GoDaddy 2024 — Priya fits this)",
+      "Researches for 1-3 days before purchases over $100",
+      "Uses Amazon wishlists as a 'cooling off' mechanism (sometimes)"
+    ],
+    "financial_anxiety_level": "high",
+    "financial_anxiety_notes": "52.3% of Millennials rate financial stress impact on mood at 7+/10 (PlanAdviser). Priya experiences 'money dysmorphia' — feels financially behind despite earning above median. 58% of Millennials experience financial anxiety 3+ days/week.",
+    "homeownership_anxiety": true,
+    "homeownership_note": "58% of Millennials feel forced to choose between homeownership and retirement (Nationwide 2025). Priya is in this cohort."
+  },
+
+  "demo_context": {
+    "scenario": "A — Instant Pot $280",
+    "expected_verdict": "CAUTION",
+    "coaching_note": "Priya can technically afford this from surplus but it conflicts with her credit card payoff goal. Present bias and self-reward framing are likely active."
+  },
+
+  "data_sources": [
+    "Experian – Average Credit Card Debt by Age 2025",
+    "Fidelity – Average Retirement Savings by Age",
+    "BLS Consumer Expenditures 2024",
+    "GoDaddy – 9 in 10 Gen Z and Millennials Impulse Buy on Social Media (2024)",
+    "PlanAdviser – Financial Stress Top Source for Women",
+    "Jenius Bank – Money Dysmorphia and Millennials",
+    "Nationwide – Homeownership or Retirement 2025",
+    "Sparrow – Average Student Loan Debt for Engineers"
+  ]
+}

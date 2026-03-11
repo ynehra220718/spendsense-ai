@@ -1,0 +1,77 @@
+[
+  {
+    "id": "instant-pot-duo-7in1",
+    "name": "Instant Pot Duo 7-in-1 (6 Qt)",
+    "category": "Kitchen Appliances",
+    "current_price": 279.99,
+    "brand": "Instant Pot",
+    "price_history": [
+      {"date": "2025-03-01", "price": 299.99},
+      {"date": "2025-04-01", "price": 299.99},
+      {"date": "2025-05-01", "price": 289.99},
+      {"date": "2025-06-01", "price": 289.99},
+      {"date": "2025-07-01", "price": 79.99},
+      {"date": "2025-07-02", "price": 289.99},
+      {"date": "2025-08-01", "price": 249.99},
+      {"date": "2025-09-01", "price": 249.99},
+      {"date": "2025-10-01", "price": 249.99},
+      {"date": "2025-11-01", "price": 219.99},
+      {"date": "2025-11-28", "price": 219.99},
+      {"date": "2025-12-01", "price": 259.99},
+      {"date": "2026-01-01", "price": 269.99},
+      {"date": "2026-02-01", "price": 279.99},
+      {"date": "2026-03-01", "price": 279.99}
+    ],
+    "notes": "$79.99 on 2025-07-01 was a single-day pricing error. Sustained low was $219.99 during Nov 2025."
+  },
+  {
+    "id": "dell-xps-15-laptop",
+    "name": "Dell XPS 15 (Intel Core i7, 16GB RAM, 512GB SSD)",
+    "category": "Laptops",
+    "current_price": 1199.99,
+    "brand": "Dell",
+    "price_history": [
+      {"date": "2025-03-01", "price": 1399.99},
+      {"date": "2025-04-01", "price": 1349.99},
+      {"date": "2025-05-01", "price": 1299.99},
+      {"date": "2025-06-01", "price": 1249.99},
+      {"date": "2025-07-01", "price": 1199.99},
+      {"date": "2025-08-01", "price": 1149.99},
+      {"date": "2025-09-01", "price": 1149.99},
+      {"date": "2025-10-01", "price": 1199.99},
+      {"date": "2025-11-01", "price": 399.99},
+      {"date": "2025-11-02", "price": 1099.99},
+      {"date": "2025-11-28", "price": 1099.99},
+      {"date": "2025-12-01", "price": 1149.99},
+      {"date": "2026-01-01", "price": 1199.99},
+      {"date": "2026-02-01", "price": 1199.99},
+      {"date": "2026-03-01", "price": 1199.99}
+    ],
+    "notes": "$399.99 on 2025-11-01 was a 1-day error. Sustained low was $1,099.99 in Nov-Dec 2025."
+  },
+  {
+    "id": "nike-air-max-270",
+    "name": "Nike Air Max 270 (Men's, Size 10)",
+    "category": "Footwear / Sneakers",
+    "current_price": 94.99,
+    "brand": "Nike",
+    "price_history": [
+      {"date": "2025-03-01", "price": 150.00},
+      {"date": "2025-04-01", "price": 150.00},
+      {"date": "2025-05-01", "price": 130.00},
+      {"date": "2025-06-01", "price": 130.00},
+      {"date": "2025-07-01", "price": 120.00},
+      {"date": "2025-08-01", "price": 110.00},
+      {"date": "2025-09-01", "price": 110.00},
+      {"date": "2025-10-01", "price": 105.00},
+      {"date": "2025-11-01", "price": 89.99},
+      {"date": "2025-11-28", "price": 89.99},
+      {"date": "2025-11-29", "price": 89.99},
+      {"date": "2025-12-01", "price": 99.99},
+      {"date": "2026-01-01", "price": 99.99},
+      {"date": "2026-02-01", "price": 94.99},
+      {"date": "2026-03-01", "price": 94.99}
+    ],
+    "notes": "No anomalies. Sustained low was $89.99 during Black Friday 2025 (3 days). Current price is near all-time low."
+  }
+]

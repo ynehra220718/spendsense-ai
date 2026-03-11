@@ -1,0 +1,121 @@
+{
+  "id": "destiny",
+  "name": "Destiny",
+  "age": 25,
+  "location": "Atlanta, GA",
+  "occupation": "Program Coordinator, Nonprofit (Youth Education)",
+  "persona_type": "rebuilding_finances",
+
+  "income": {
+    "annual_gross": 48000,
+    "monthly_gross": 4000,
+    "monthly_net": 3280,
+    "note": "Effective tax rate ~18% including federal + GA state income tax (5.49%). PSLF eligible after 10 years — a meaningful but distant financial lever."
+  },
+
+  "monthly_income": 3280,
+
+  "monthly_expenses_breakdown": {
+    "rent_shared_2br": 860,
+    "groceries": 310,
+    "dining_out_coffee": 145,
+    "transportation_marta_pass": 95,
+    "utilities_shared": 115,
+    "internet_shared": 40,
+    "student_loan_payment_idr": 98,
+    "student_loan_note": "On Income-Driven Repayment (IDR) plan. Actual payment is $98/mo vs standard repayment of $380/mo. Pursuing PSLF — 10-year forgiveness if she stays in nonprofit.",
+    "bnpl_monthly_payments": 135,
+    "credit_card_minimum": 75,
+    "healthcare_premium_copays": 165,
+    "medical_debt_payment": 80,
+    "subscriptions": 48,
+    "personal_care": 70,
+    "miscellaneous_discretionary": 210,
+    "total": 2446
+  },
+
+  "monthly_expenses": 2446,
+  "monthly_surplus": 834,
+  "monthly_surplus_note": "Surplus looks reasonable on paper but is inconsistent month-to-month. Unexpected expenses (medical, car repair, travel) regularly wipe it out. 59% of Americans cannot cover a $1,000 unexpected expense (Bankrate 2025) — Destiny is in this group.",
+
+  "savings": 1200,
+  "savings_breakdown": {
+    "checking_savings": 1200,
+    "401k_roth_ira": 0,
+    "note": "Nonprofit employer offers 403(b) but Destiny has not enrolled — couldn't afford contributions when she started. Just opened a HYSA 4 months ago. Emergency fund goal is $9,800 (3 months). Currently at 12% of goal. 55% of Gen Z do not have enough emergency savings to cover 3 months (multiple sources, 2025)."
+  },
+
+  "total_debt": 42300,
+  "debt_breakdown": {
+    "student_loans": 34500,
+    "credit_card_balance": 2800,
+    "bnpl_outstanding": 1800,
+    "medical_debt": 3200,
+    "auto_loan": 0,
+    "student_loan_note": "Social sciences / public policy bachelor's degree. EducationData avg for behavioral sciences: $44,554. Destiny's balance is slightly below avg. On IDR + PSLF track — psychologically reduces urgency but delays actual payoff.",
+    "credit_card_note": "Below Millennial avg of $6,961 — Destiny avoids credit cards after a bad experience at 22. Has one card used only for emergencies.",
+    "bnpl_note": "44% of Gen Z used BNPL in 2024 (Motley Fool). Destiny has 2 active Afterpay plans (clothing, $480) and 1 Affirm plan (phone accessories, $1,320). 25% of Gen Z were late on a BNPL payment in 2024 — Destiny missed one payment in the last 6 months.",
+    "medical_debt_note": "ER visit (appendix scare) at 23 while uninsured between jobs. 18% of adults 18-29 have borrowed money for healthcare (Federal Reserve SHED 2024). Paying $80/mo on a payment plan."
+  },
+
+  "financial_goals": [
+    "Build $2,500 emergency fund in next 8 months (first milestone)",
+    "Clear all BNPL obligations within 4 months",
+    "Enroll in 403(b) at 3% contribution by end of year",
+    "Pay off medical debt by month 14",
+    "Qualify for PSLF student loan forgiveness in 7.5 years"
+  ],
+
+  "subscriptions_detail": [
+    "Spotify ($10.99)", "Hulu with ads ($7.99)", "iCloud 50GB ($0.99)", "Amazon Prime shared with family ($0 her share)"
+  ],
+  "subscription_note": "Notably lean — Destiny audited her subscriptions 3 months ago after a viral TikTok about 'subscription creep.' Cut 4 services. This is a sign of growing financial awareness.",
+
+  "behavioral_profile": {
+    "money_behavior": "rebuilding_finances",
+    "money_script": "I grew up without much money and I'm afraid I'll always be bad at this — but I'm trying to change that.",
+    "spending_triggers": [
+      "Stress-spending after a hard day ('I deserve something small')",
+      "30% of Gen Z treat themselves to purchases when worried about money (Fortune 2024) — Destiny fits this",
+      "Social media: TikTok Shop and Instagram ads are primary triggers — 9 in 10 Gen Z impulse buy on social media (GoDaddy 2024)",
+      "BNPL availability removes friction — installments feel 'manageable' in the moment",
+      "Seeing friends or coworkers with new items creates social pull",
+      "'Doom spending' when news cycle is heavy — documented Gen Z coping pattern (Fortune 2024)"
+    ],
+    "cognitive_biases_observed": [
+      "Present bias: IDR loan plan reduces monthly pain but delays financial progress",
+      "BNPL optimism: consistently underestimates how quickly BNPL balances accumulate",
+      "Scarcity mindset flip: occasional 'treat yourself' overspending as psychological release from chronic financial constraint",
+      "Avoidance: 33% of Gen Z avoid thinking about finances when stressed (research, 2024) — Destiny has periods of this"
+    ],
+    "shopping_patterns": [
+      "Primarily shops via TikTok Shop, Instagram, Shein, and ASOS",
+      "Impulse purchase window is very short — often buys within minutes of seeing a product",
+      "Uses BNPL to make purchases feel affordable",
+      "Nearly half of Gen Z put themselves on 'shopping bans' then break them (retail research 2024) — Destiny has done this twice"
+    ],
+    "financial_anxiety_level": "high",
+    "financial_anxiety_notes": "48% of Gen Z financially insecure in 2025 — up 60% from 2024 (Deloitte). 62% of Gen Z stressed 3+ days/week about money (LifeStance 2025). Destiny has high anxiety but is actively rebuilding — this is the key narrative tension. She is making real progress (HYSA opened, subscriptions audited, IDR enrolled) but one unexpected expense can set her back months.",
+    "financial_identity_in_transition": true,
+    "financial_identity_note": "Destiny is actively trying to shift her self-concept from 'bad with money' to 'someone who is learning.' This is fragile and should be affirmed — not undermined. Non-judgmental framing is critical."
+  },
+
+  "demo_context": {
+    "scenario": "C — Nike Air Max 270 Sneakers $95",
+    "expected_verdict": "CAUTION to NOT_RECOMMENDED",
+    "coaching_note": "Destiny's $834 surplus looks adequate but her BNPL balance is still active and emergency fund is critically low. The sneakers are likely a stress-triggered social media impulse. Coach should validate the desire, name the BNPL pattern gently, and redirect to her savings milestone."
+  },
+
+  "data_sources": [
+    "Motley Fool – 2025 Buy Now Pay Later Trends Study",
+    "J.D. Power – 2025 US Buy Now Pay Later Satisfaction Study",
+    "Bankrate – 2026 Emergency Savings Report",
+    "Federal Reserve – SHED 2024 Savings and Investments",
+    "EducationData.org – Student Loan Debt by Major",
+    "Deloitte – 2025 Global Gen Z and Millennial Survey",
+    "LifeStance – Financial Stress and Mental Health 2025",
+    "GoDaddy – 9 in 10 Gen Z Impulse Buy on Social Media 2024",
+    "Fortune – Gen Z Doom Spending 2024",
+    "ElectroIQ – Medical Debt Statistics 2025"
+  ]
+}
