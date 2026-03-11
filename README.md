@@ -243,5 +243,4 @@ Extensions require JavaScript (a new language on top of Python). A Streamlit web
 
 ---
 
-*Portfolio project — Deloitte USI analyst (data migration, Oracle → Snowflake, Corebridge Financial) transitioning to PM.*
-*Built to demonstrate PM rigor (artifacts), technical depth (multi-agent AI), and product thinking (behavioral economics foundation).*
+
